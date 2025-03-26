@@ -92,6 +92,10 @@ html {
   align-items: center;
 }
 
+.nav-links.active {
+  display: flex;
+}
+
 .logo {
   font-size: 1.5rem;
   font-weight: bold;
